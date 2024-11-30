@@ -735,7 +735,7 @@ def run_leiden(
     else:
         return score_all, clustering
 
-def run_descartes(anndatas,
+def run_descart(anndatas,
                 select_num,
                 seed_base,
                 tfidf="tfidf2",
