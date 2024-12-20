@@ -22,7 +22,7 @@ $ conda activate Descart
 
 ### Package installation
 
-Python packages required by Cofea are listed below:
+Python packages required by Descart are listed below:
 
 ```
 1. Python 3.8.18
